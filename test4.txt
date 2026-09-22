@@ -1,0 +1,20 @@
+public class Class3{
+int x=0,y=1,z=3;
+public int w,v;
+double a=3.14d,b=54.65d,c=5322.67d;
+double d,e;
+boolean f=false,t=true;
+boolean g,h,j;
+char attr1='a',attr2='2';
+private char k,l;
+String s="attribute",str="string";
+String m,n;
+
+public void method3(){
+int i;
+
+for(i=0;i<5;i=i+1){
+out.print("i=",i);
+}
+}
+}

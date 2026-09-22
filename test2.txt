@@ -1,0 +1,15 @@
+public class ClassA{
+int a;
+
+private void methodA(int x){
+out.print("x=", x);
+}
+
+public class ClassB{
+double b;
+
+public void methodB(){
+out.print ("MethodB");
+}
+}
+}
